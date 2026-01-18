@@ -1,1 +1,2 @@
-InvoSpell
+InvoSpell- For categorizing your invoices
+
